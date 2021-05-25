@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pakistaniazhar_" target="blank"><img src="https://img.shields.io/twitter/follow/pakistaniazhar_?logo=twitter&style=for-the-badge" alt="pakistaniazhar_" /></a> </p>
 
-- 🔭 I’m currently working on **React & React Native Project**
+- 🔭 I’m currently working on **React & React Native Projects**
 
 - 🌱 I’m currently learning **everything** :laughing: 
 
