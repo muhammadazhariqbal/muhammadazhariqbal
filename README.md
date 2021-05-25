@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar Iqbal</h1>
-<h3 align="center">A passionate frontend developer and a IT student from Pakistan.</h3>
+<h3 align="center">A passionate frontend developer and a IT student :mortar_board: from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadazhariqbal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadazhariqbal" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **React & React Native Project**
 
-- 🌱 I’m currently learning **everything. lol**
+- 🌱 I’m currently learning **everything :laughing: **
 
-- 👯 I’m looking to collaborate on **Frontend Developers**
+- 👯 I’m looking to collaborate on **React and React Native Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal)
+- 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal) :star2:
 
-- 📫 How to reach me **muhammad1azhar2@gmail.com**
+- 📫 How to reach me **muhammad1azhar2@gmail.com** :smiley:
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/](https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/](https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/) :computer:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
