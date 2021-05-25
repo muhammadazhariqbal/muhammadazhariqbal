@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **React & React Native Project**
 
-- 🌱 I’m currently learning **everything :laughing: **
+- 🌱 I’m currently learning **everything** :laughing: 
 
-- 👯 I’m looking to collaborate on **React and React Native Projects**
+- 👯 I’m looking to collaborate on **React and React Native Projects** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal) :star2:
 
