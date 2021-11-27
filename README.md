@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal) :star2:
 
-- 📫 How to reach me **muhammad1azhar2@gmail.com** :smiley:
+<!-- - 📫 How to reach me **muhammad1azhar2@gmail.com** :smiley: -->
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/](https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/) :computer:
 
