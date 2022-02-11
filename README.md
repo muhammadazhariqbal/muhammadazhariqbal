@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **React and React Native Projects** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal) :star2:
-- 👨‍💻 All of my projects are available at [https://gitlab.com/muhammadazhariqbal](https://gitlab.com/muhammadazhariqbal) :star2:
+- 👨‍💻 Work Experience at DevelopEirs [https://gitlab.com/muhammadazhariqbal](https://gitlab.com/muhammadazhariqbal) :star2:
 
 <!-- - 📫 How to reach me **muhammad1azhar2@gmail.com** :smiley: -->
 
