@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar Iqbal</h1>
-<h3 align="center">A Frontend Developer (React/React Native) and an IT student :mortar_board: from Pakistan.</h3>
+<h3 align="center">Front-end Developer | Freelancer | an IT student. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadazhariqbal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadazhariqbal" /> </p>
 
