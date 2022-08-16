@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadazhariqbal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadazhariqbal" /> </p>
 
 
-- 🔭 I’m currently working on **React & React Native Projects**
+- 🔭 I’m currently working on **React JS, Next JS and  React Native Projects**
 
 - 🌱 I’m currently learning **everything** :laughing: 
 
@@ -13,9 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal) :star2:
 
 
-<!-- - 📫 How to reach me **muhammad1azhar2@gmail.com** :smiley: -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/](https://www.linkedin.com/in/muhammad-azhar-iqbal-6333201a0/) :computer:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
