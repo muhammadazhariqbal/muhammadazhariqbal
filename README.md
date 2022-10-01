@@ -9,13 +9,7 @@
 
 - 🔭 I’m currently working on **React JS | Next JS | Typescript Projects**
 
-- 🌱 I’m currently learning **Next JS & Typescript**
-
-- 👯 I’m looking to collaborate on **Next**
-
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadazhariqbal](https://github.com/muhammadazhariqbal)
-
-- 💬 Ask me about **React JS, Vanilla JavaScript, HTML/CSS, Bootstrap & MUI**
 
 - 📫 How to reach me **muhammad1azhar2@gmail.com**
 
