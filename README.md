@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar Iqbal</h1>
-<p align="center"> 
+<p align="left"> 
 I'm a student of IT and an Expert front-end developer with one and a half years of working experience in developing Web and Mobile Applications using HTML/CSS, vanilla JS, React JS, React Native, and different Frameworks Libraries across diverse industries. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadazhariqbal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadazhariqbal" /> </p>
 
 
-- 🔭 I’m currently working on **React JS, Next JS and  React Native Projects**
+- 🔭 I’m currently working on **React JS, Next JS, TypeScript React Native Projects**
 
 - 🌱 I’m currently learning **everything** :laughing: 
 
