@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar</h1>
-<h3 align="center">React JS Developer | React Native Developer | JavaScript Developer | Freelance Front-end Developer 🚀 </h3>
+<h3 align="center">Freelance Frontend Developer with React JS and React Native expertise. @fiverr </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadazhariqbal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadazhariqbal" /> </p>
 
