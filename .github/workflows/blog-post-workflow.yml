@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Blog Post Workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/muhammadazhariqbal, https://medium.com/feed/@muhammadazhariqbal"
+          
+
