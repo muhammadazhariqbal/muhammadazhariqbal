@@ -100,7 +100,7 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 <br/>  
 
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
