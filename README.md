@@ -100,11 +100,9 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 <br/>  
 
 
-
-### Blog Post   
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
