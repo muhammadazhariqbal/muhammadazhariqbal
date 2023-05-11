@@ -37,7 +37,7 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 At this moment, I'm immersed in the art of coding, sculpting seamless digital experiences with React.js and React Native.  
   
@@ -55,7 +55,7 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 
 
 
-</td></tr></table>  
+
 
 <br/>  
 
