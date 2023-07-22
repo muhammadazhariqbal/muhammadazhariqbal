@@ -100,7 +100,7 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/muhammadazhariqbal/test-3c87)
+- [AI Emerging: The Short But Exciting Journey to the Future](https://dev.to/muhammadazhariqbal/ai-emerging-the-short-but-exciting-journey-to-the-future-33lh)
 - [Freelancing Success: 3 Pitfalls to Avoid on Your Journey](https://dev.to/muhammadazhariqbal/freelancing-success-3-pitfalls-to-avoid-on-your-journey-2go7)
 <!-- BLOG-POST-LIST:END -->
 
