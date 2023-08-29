@@ -100,6 +100,7 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Great Debate: Use Context vs. Redux in React](https://dev.to/muhammadazhariqbal/the-great-debate-use-context-vs-redux-in-react-1063)
 - [Understanding useState Hook in React JS: A Beginner&#39;s Guide](https://dev.to/muhammadazhariqbal/understanding-usestate-hook-in-react-js-a-beginners-guide-4gf8)
 - [Breaking Barriers: How Freelancing is Empowering Every Individual!](https://dev.to/muhammadazhariqbal/breaking-barriers-how-freelancing-is-empowering-every-individual-3j8e)
 <!-- BLOG-POST-LIST:END -->
