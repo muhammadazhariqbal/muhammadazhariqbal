@@ -100,6 +100,8 @@ I am a seasoned Frontend Developer specializing in React.js and React Native. Wi
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 Semantic Elements](https://dev.to/muhammadazhariqbal/html5-semantic-elements-a62)
+- [Responsive Design with CSS Media Queries](https://dev.to/muhammadazhariqbal/responsive-design-with-css-media-queries-2ei6)
 - [A Simple Guide to Using useEffect in React](https://dev.to/muhammadazhariqbal/a-simple-guide-to-using-useeffect-in-react-3hch)
 - [Understanding useState Hook in React JS: A Beginner&#39;s Guide](https://dev.to/muhammadazhariqbal/understanding-usestate-hook-in-react-js-a-beginners-guide-4gf8)
 - [Breaking Barriers: How Freelancing is Empowering Every Individual!](https://dev.to/muhammadazhariqbal/breaking-barriers-how-freelancing-is-empowering-every-individual-3j8e)
