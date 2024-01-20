@@ -16,19 +16,23 @@ Hi, I'm Muhammad Azhar Iqbal, a skilled developer with proficiency in React JS, 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadazhariqbal&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadazhariqbal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+### Daily.dev Card
+ <a href="https://app.daily.dev/muhmmdazhar">
+      <img src="https://api.daily.dev/devcards/e87e13e0f9f94052b244084230542432.png?r=d3g" width="400" alt="Muhammad Azhar's Dev Card"/>
+    </a>
+
+    
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## Daily.dev Card
- <a href="https://app.daily.dev/muhmmdazhar">
-      <img src="https://api.daily.dev/devcards/e87e13e0f9f94052b244084230542432.png?r=d3g" width="400" alt="Muhammad Azhar's Dev Card"/>
-    </a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
