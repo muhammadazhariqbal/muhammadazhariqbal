@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/muhmmdazhar"><img src="https://api.daily.dev/devcards/e87e13e0f9f94052b244084230542432.png?r=d3g" width="400" alt="Muhammad Azhar's Dev Card"/></a>
 
 # About Me:
 Hi, I'm Muhammad Azhar Iqbal, a skilled developer with proficiency in React JS, React Native, and Firebase. I specialize in creating high-quality web and mobile applications, and managing backend operations using Google Cloud Functions.<br><br> I bring over a year of in-depth experience working with international clients and startups. My projects vary from improving Inventory Management Systems to designing easy-to-use Learning Management Systems for educational sectors.<br><br>
@@ -26,7 +25,10 @@ Hi, I'm Muhammad Azhar Iqbal, a skilled developer with proficiency in React JS, 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
+## Daily.dev Card
+ <a href="https://app.daily.dev/muhmmdazhar">
+      <img src="https://api.daily.dev/devcards/e87e13e0f9f94052b244084230542432.png?r=d3g" width="400" alt="Muhammad Azhar's Dev Card"/>
+    </a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
