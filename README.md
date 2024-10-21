@@ -1,6 +1,6 @@
 
 # About Me:
-Hi, I'm Muhammad Azhar Iqbal, a skilled developer with proficiency in React JS, React Native, and Firebase. I specialize in creating high-quality web and mobile applications, and managing backend operations using Google Cloud Functions.<br><br> I bring over a year of in-depth experience working with international clients and startups. My projects vary from improving Inventory Management Systems to designing easy-to-use Learning Management Systems for educational sectors.<br><br>
+I'm a frontend/web mobile app engineer with a passion for high-quality UI. With two years of experience, I specialize in building web applications, managing both UI development and backends using BaaS solutions such as Firebase, AWS Amplify, and Appwrite, focusing on early-stage startups. I enjoy creating products from the ground up (0 to 1) and taking existing ones to the next level.<br><br>
 
 
 ## Socials:
