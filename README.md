@@ -16,10 +16,6 @@ I'm a frontend/web mobile app engineer with a passion for high-quality UI. With 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadazhariqbal&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammadazhariqbal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ### Daily.dev Card
  <a href="https://app.daily.dev/muhmmdazhar">
       <img src="https://api.daily.dev/devcards/e87e13e0f9f94052b244084230542432.png?r=d3g" width="400" alt="Muhammad Azhar's Dev Card"/>
