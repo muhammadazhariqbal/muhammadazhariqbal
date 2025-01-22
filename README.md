@@ -27,6 +27,13 @@ I'm a frontend/web mobile app engineer with a passion for high-quality UI. With 
 
 
 
+## Contribution Chart
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadazhariqbal)
 
+## Stats Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadazhariqbal&show_icons=true&hide=contribs)
+
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadazhariqbal)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
