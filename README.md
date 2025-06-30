@@ -1,4 +1,4 @@
-# muhammad azhar 
+# Muhammad Azhar 
 
 ```javascript
 // Building apps that work
