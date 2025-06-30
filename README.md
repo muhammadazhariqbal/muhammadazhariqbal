@@ -16,18 +16,18 @@ const me = {
 ## Recent work
 ```
 📱 AI Receipt Scanner
-   └── Computer vision meets expense tracking
-   └── React Native + Google Vision API
-   └── 95% accuracy on messy receipts
+   └── Expense tracking
+   └── React JS + Document AI API
+   └── Accuracy on messy receipts
 
 📚 Learning Management System  
    └── Netflix for education content
    └── Next.js + video streaming + analytics
-   └── Handles 500+ concurrent users
+   └── Handles concurrent users
 
 🎛️ Headless CMS
    └── API-first content management
-   └── Custom admin panel + REST/GraphQL
+   └── Custom admin panel
    └── Powers 3 different client websites
 
 🛒 E-commerce Mobile App
