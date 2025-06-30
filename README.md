@@ -1,4 +1,4 @@
-# azhar
+# muhammad azhar 
 
 ```javascript
 // Building apps that work
@@ -61,4 +61,4 @@ Debug       Chrome DevTools • React DevTools • Flipper
 
 *Good software solves problems without creating new ones*
 
-[email](mailto:muhammadazhar.dev@gmail.com)
+[connect](mailto:muhammadazhar.dev@gmail.com)
