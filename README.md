@@ -3,9 +3,9 @@
 ```javascript
 // Building apps that work
 const me = {
-  focus: "React • Next.js • React Native",
+  focus: "React Native, React • Serverless Backend Frameworks",
   currently: "AI integrations + performance optimization",
-  experience: "3+ years, 15+ projects delivered",
+  experience: "2+ years, 6+ projects delivered",
   location: "Karachi → Global",
   motto: "Clean code > Clever code",
   debugsForFun: true,
@@ -13,41 +13,14 @@ const me = {
 }
 ```
 
-## Recent work
-```
-📱 AI Receipt Scanner
-   └── Expense tracking
-   └── React JS + Document AI API
-   └── Accuracy on messy receipts
-
-📚 Learning Management System  
-   └── Netflix for education content
-   └── Next.js + video streaming + analytics
-   └── Handles concurrent users
-
-🎛️ Headless CMS
-   └── API-first content management
-   └── Custom admin panel
-   └── Powers 3 different client websites
-
-🛒 E-commerce Mobile App
-   └── Real-time everything (inventory, chat, orders)
-   └── React Native + WebSocket magic
-   └── 0.8s average checkout time
-
-⚡ Performance Rescue Mission
-   └── Startup app: 12s → 2s load time
-   └── Found 47 unnecessary API calls
-   └── Now serves 100+ daily active users
-```
 
 ## Stack & Tools
 ```
-Frontend    React • Next.js • TypeScript • Tailwind CSS
+Frontend    React • Next.js 
 Mobile      React Native • Expo
-Backend     Node.js • Firebase • Supabase • Appwrite
-AI/ML       OpenAI • Anthropic • Google Vision API
-Database    PostgreSQL • MongoDB • Firestore
+Backend     • Firebase • Cloudflare • Appwrite
+AI/ML       • OpenAI • Anthropic • Google Vision API
+Database    • Firestore • Supabase
 Deploy      Vercel • Cloudflare • Railway
 Debug       Chrome DevTools • React DevTools • Flipper
 ```
@@ -55,7 +28,6 @@ Debug       Chrome DevTools • React DevTools • Flipper
 ## Currently obsessed with
 - Making AI integrations that don't feel gimmicky
 - Sub-2-second page loads (it's possible, I promise)
-- Helping founders at **azhar.codes** turn ideas into revenue
 
 ---
 
