@@ -2,32 +2,32 @@
 
 ```javascript
 // Building apps that work
-const me = {
-  focus: "React Native, React • Serverless Backend Frameworks",
-  currently: "AI integrations + performance optimization",
-  experience: "2+ years, 6+ projects delivered",
-  location: "Karachi → Global",
-  motto: "Clean code > Clever code",
-  debugsForFun: true,
-  coffeeToCodeRatio: "1:∞"
-}
+const me = {  
+  focus: "React Native • Expo • Native modules",  
+  currently: "AI features + performance tuning",  
+  experience: "2+ years shipping mobile apps",  
+  location: "Karachi → Remote",  
+  motto: "Smooth UX > Fancy code",  
+  livesInFlipper: true,  
+  coffeeToCode: "∞"  
+} 
 ```
 
 
 ## Stack & Tools
 ```
-Frontend    React • Next.js 
-Mobile      React Native • Expo
-Backend     • Firebase • Cloudflare • Appwrite
-AI/ML       • OpenAI • Anthropic • Google Vision API
-Database    • Firestore • Supabase
-Deploy      Vercel • Cloudflare • Railway
-Debug       Chrome DevTools • React DevTools • Flipper
+Mobile     React Native • Expo  
+Backend    Firebase • Cloudflare • Google Cloud  
+AI/ML      MLC • OpenAI • Anthropic  
+Database   Firestore • Supabase  
+Deploy     EAS • Cloudflare • Vercel  
+Debug      Flipper • React DevTools • Chrome DevTools  
 ```
 
 ## Currently obsessed with
-- Making AI integrations that don't feel gimmicky
-- Sub-2-second page loads (it's possible, I promise)
+• Native iOS and Android layers for deeper RN integration  
+• AI agents that actually improve mobile UX  
+• Keeping apps under 3 sec cold start
 
 ---
 
