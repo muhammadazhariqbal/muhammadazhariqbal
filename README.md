@@ -20,13 +20,13 @@ Mobile     React Native • Expo
 Backend    Firebase • Cloudflare • Google Cloud  
 AI/ML      MLC • OpenAI • Anthropic  
 Database   Firestore • Supabase  
-Deploy     EAS • Cloudflare • Vercel  
+Deploy     EAS • Cloudflare • Vercel • App Store • Google Play Store  
 Debug      Flipper • React DevTools • Chrome DevTools  
 ```
 
 ## Currently obsessed with
-• Native iOS and Android layers for deeper RN integration  
-• AI agents that actually improve mobile UX  
+• Native iOS layers for deeper RN integration  
+• Better understanding of mobile app iOS architecture
 • Keeping apps under 3 sec cold start
 
 ---
